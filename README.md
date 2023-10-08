@@ -184,7 +184,7 @@ npm run sass
 <br>
 <br>
 
-> [Bikcraft ](https://bikcraft-woad.vercel.app/)
+> [Bikcraft ](https://bikcraft-v1-sass.vercel.app/)
 
 <br>
 <br>
