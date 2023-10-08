@@ -36,8 +36,11 @@
 <div align="center">
 <h2>📽️ de Demostração do Projeto</h2>
 
+https://github.com/emmanuelmarcosdeoliveira/bikcraft_v1_sass/assets/116108389/2c8a4140-018c-425e-8171-1d4bccc3baa5
 
 </div>
+<br>
+<br>
 
 <div align='center'>
   <h2>⚙️ Funcionalidades</h2>
@@ -47,9 +50,11 @@
 
  <div align="center">
  <h2>📸 Imagens do Projeto verão web.</h2>
-
-> :bulb: **Dica:** Algumas imagens da versão Desktop.
-
+<br>
+<br>
+  > :bulb: **Dica:** Algumas imagens da versão Desktop.
+<br>
+<br>
 <img src="./source/img-readme/home.png" width= 450px> 
 <img src="./source/img-readme/portfolio.png"  width= 450px>
 <img src="./source/img-readme/produtos.png"  width= 450px> 
@@ -58,9 +63,11 @@
 </div>
 <div>
  <h2>📱 Imagens do Projeto verão Mobile.</h2>
-
+<br>
+ <br>
  > :bulb: **Dica:** Algumas imagens da versão Mobile.
-
+<br>
+<br>
 <img src="./source/img-readme/mobile-home.png" width= "160x" height="320px"> 
 <img src="./source/img-readme/mobile-porfolio.png" width= "160px" height="320px"> 
 <img src="./source/img-readme/mobile-produtos.png" width= "160px" height="320px"> 
@@ -71,23 +78,31 @@
 <h2>🪛Tecnologias Utilizadas </h2>
 </div>
 
-<div align="left">
-✅HTML<br>
-✅CSS<br>
-✅JAVASCRIPT<br>
-✅SASS<br> 
+<div align="center">
+ <br>
+ <br>
+ 
+|<img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> | <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> | <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> | <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> |
+|:---:|:---:|:---:|:---:|
+|HTML5|CSS3|JAVASCRIPT|SASS|
+
+<br>
+<br>
+
+
 </div>
 
 <div align='center'>
  <h2>🛣️ Como Executar esse projeto ?</h2>
 </div>
-
->> Pré Requisitos:<br>
+<br>
+<br>
+> Pré Requisitos:<br>
 Ter instaldo em seu computador:<br>
 💾 - [node.js](https://nodejs.org/en)<br>
 💾 - [vs-code](https://code.visualstudio.com/)<br>
-
-
+<br>
+<br>
 1. Fazer a instalçao do **NODE.JS** _"Caso ainda não tenha em seu computador"_:
 <br>
  [Node.Js](https://nodejs.org/en).<br> 
@@ -96,25 +111,37 @@ Ter instaldo em seu computador:<br>
   
 ---
 2. Fazer o **fork** desse projeto para o seu Github.<br>
+<br>
+<br>
 
 >Caso não saiba o que é isso ou como fazer um fork de um repositório vou deixar umn video aqui com o passo a passo de como fazer isso.
-> https://www.youtube.com/watch?v=q-QTbNu8Ybc
+ https://www.youtube.com/watch?v=q-QTbNu8Ybc
+<br>
+<br>
 
 ---
 
-3. Abra esse projeto dentro do seu **VScode**
+<br>
+<br>
+3.  Abra esse projeto dentro do seu **VScode**
+<br>
+<br>
 
 ---
 
 4. Digite o comando dentro do terminal do **VSCode**
-
+<br>
+<br>
 
 ~~~~bash
 npm install
 ~~~~
 
+<br>
+<br>
 > Esse comando faz uma verificação de todas as Dependências necessária para a execução do projeto e faz a instalação dessas dependências para que você possa executar esse projeto. **Espere o processo ser concluido.** 
 
+<br>
 <br>
 
 ---
@@ -122,23 +149,30 @@ npm install
 5. Agora digite o comando para a  *execução do SASS* dentro do terminal do **VScode** 
 
 <br>
+<br>
 
 ~~~~bash
 npm run sass
 ~~~~
 
 <br>
+<br>
 
 ---
 
 6. Pronto🏅 
+<br>
+<br>
 
 > Vocé já tem o projeto dentro do seu github;  podendo verificar o código;  fazer alterações. etc... 
 
 ---
 
+<br>
+<br>
 
-Para ter Acesso ao Projeto; clique no link Abaixo:  <br>
+Para ter Acesso ao Projeto; clique no link Abaixo:<br>
+
 > [Bikcraft ](https://bikcraft-woad.vercel.app/)
 
 
