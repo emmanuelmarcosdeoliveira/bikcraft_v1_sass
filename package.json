@@ -4,7 +4,7 @@
   "description": "Este Repositório é destinado para a pratica do curso de CSS com SASS da origamid",
   "main": "index.js",
   "scripts": {
-    "sass" : "sass source/styles/scss/styles.scss build/styles/styles.css --watch",
+    "sass" : "sass source/styles/scss/style.scss  build/styles/style.css --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

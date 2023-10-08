@@ -1,11 +1,15 @@
+@use "variaveis";
+// Gerais
 @use "reset";
 @use "normalize";
 @use "grid";
 @use "geral";
+// Páginas
 @use "produtos";
 @use "sobre";
 @use "portfolio";
 @use "contato";
-@use "responsivo";
+
+
 
 
